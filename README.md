@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/LivingHopeDev/ip-address-tracker)
+- Solution URL: [Click here](https://github.com/LivingHopeDev/ip-address-tracker)
 - Live Site URL: [IPAddressTracker](https://main--dashing-figolla-916404.netlify.app/)
 
 ## My process
